@@ -40,7 +40,7 @@ keys, joins, aggregations and operational reporting queries.
 Python analysis exploring how market sentiment relates to trader
 profitability, activity and risk.
 
-[View Project](https://github.com/ash-sheik/Data_Science_Intern_Project)
+[View Project](https://github.com/ash-sheik/crypto-sentiment-trading-analysis)
 
 ## Currently
 
