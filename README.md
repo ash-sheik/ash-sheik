@@ -28,7 +28,7 @@ identify meaningful trends and communicate insights clearly.
 An interactive Power BI dashboard for monitoring suspected and confirmed
 disease cases across locations and time periods.
 
-[View Project](https://github.com/ash-sheik/Disease-trend-dasboard-powerbi)
+[View Project](https://github.com/ash-sheik/disease-trend-dashboard-power-bi)
 
 ### Library Management System
 A relational SQL project covering database design, primary and foreign
