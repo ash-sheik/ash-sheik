@@ -50,5 +50,5 @@ profitability, activity and risk.
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/ashiba-b-2309-/)
+- [LinkedIn](https://www.linkedin.com/in/ashiba-data-analyst)
 - Email: ashibab23@gmail.com
