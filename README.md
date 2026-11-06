@@ -49,7 +49,7 @@ Explores listing distribution, pricing, room types, host activity and neighbourh
 ### Additional Projects
 
 - [Crypto Market Sentiment & Trading Performance](https://github.com/ash-sheik/crypto-sentiment-trading-analysis) — exploratory Python analysis of sentiment and trading outcomes.
-- [Employee Workforce Analysis](https://github.com/ash-sheik/employee-workforce-analysis-python) — an earlier Python notebook project; currently under review because the repository dataset is NBA player data rather than employee data.
+- [NBA Player Roster & Salary Analysis](https://github.com/ash-sheik/nba-player-roster-salary-analysis-python) — an earlier Python notebook project; currently under review because the repository dataset is NBA player data rather than employee data.
 - [Library Management System](https://github.com/ash-sheik/library-management-system-sql) — relational database design and SQL business queries.
 
 ---
